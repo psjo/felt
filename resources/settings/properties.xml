@@ -4,6 +4,6 @@
 	<property id="bt_prop" type="boolean">true</property>
 	<property id="marks_prop" type="boolean">false</property>
 	<property id="date_prop" type="boolean">true</property>
-	<property id="hands_prop" type="boolean">true</property>
+	<property id="hands_prop" type="boolean">false</property>
 
 </properties>

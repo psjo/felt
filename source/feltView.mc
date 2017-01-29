@@ -17,9 +17,9 @@ class feltView extends Ui.WatchFace {
 
     var w;
     var r, dr, dr2, cr = 6, rr = 8;
-    var sqrt3d2 = Math.sqrt(3)/2;
-    var pit2 = Math.PI*2;
-    var pid6 = Math.PI/6;
+    var sqrt3d2 = Math.sqrt(3) / 2;
+    var pit2 = Math.PI * 2;
+    var pid6 = Math.PI / 6;
     var min = []; // minute hand
     var hour = []; // hour hand
     var dots = [];
@@ -59,24 +59,18 @@ class feltView extends Ui.WatchFace {
                 [ 0, r - cr*4 ] ];
         hour = toCyl(hour, 11);
         dots = [r - dr2, r + dr2, r - dr*sqrt3d2, r + dr*sqrt3d2];
-        //setLayout(Rez.Layouts.WatchFace(dc));
     }
 
-    // Called when this View is brought to the foreground. Restore
-    // the state of this View and prepare it to be shown. This includes
-    // loading resources into memory.
     function onShow() {
     }
 
-    // Update the view
     function onUpdate(dc) {
         if (loadSettings) {
-            //getSettings();
+            getSettings();
             loadSettings = false;
         }
 
         drawBG(dc);
-
         drawSome(dc);
         if (!sleep && bluetooth) {
             drawBT(dc);
@@ -242,18 +236,11 @@ class feltView extends Ui.WatchFace {
     }
 
 
-    // Called when this View is removed from the screen. Save the
-    // state of this View here. This includes freeing resources from
-    // memory.
     function onHide() {
     }
-
-    // The user has just looked at their watch. Timers and animations may be started here.
     function onExitSleep() {
         sleep = false;
     }
-
-    // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() {
         sleep = true;
     }
@@ -278,6 +265,6 @@ class feltView extends Ui.WatchFace {
         bluetooth = app.getProperty("bt_prop");
         marks = app.getProperty("marks_prop");
         date = app.getProperty("date_prop");
+        hands = app.getProperty("hands_prop");
     }
-
 }
