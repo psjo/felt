@@ -1,0 +1,9 @@
+<properties>
+	<property id="appName" type="string">@Strings.AppName</property>
+	<property id="appVersion" type="string">@Strings.AppVersion</property>
+	<property id="bt_prop" type="boolean">true</property>
+	<property id="marks_prop" type="boolean">false</property>
+	<property id="date_prop" type="boolean">true</property>
+	<property id="hands_prop" type="boolean">true</property>
+
+</properties>

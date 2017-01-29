@@ -1,0 +1,25 @@
+<settings>
+	<setting propertyKey="@Properties.appName" title="@Strings.AppName">
+		<settingConfig type="alphaNumeric" readonly="true" />
+	</setting>
+	<setting propertyKey="@Properties.appVersion" title="@Strings.AppVersion">
+		<settingConfig type="alphaNumeric" readonly="true" />
+	</setting>
+
+    <setting propertyKey="@Properties.hands_prop" title="@Strings.hands">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.bt_prop" title="@Strings.bluetooth">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.marks_prop" title="@Strings.marks">
+        <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.date_prop" title="@Strings.date">
+        <settingConfig type="boolean" />
+    </setting>
+
+</settings>
