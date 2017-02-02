@@ -14,7 +14,7 @@ class feltView extends Ui.WatchFace {
     var marks = false;
     var date = true;
     var hands = false;
-
+    var invert = true;
     var w;
     var r, dr, dr2, cr = 6, rr = 8;
     var sqrt3d2 = Math.sqrt(3) / 2;
@@ -71,16 +71,19 @@ class feltView extends Ui.WatchFace {
         }
 
         drawBG(dc);
-        drawSome(dc);
+        if(invert) {
+            drawInv(dc);
+        }
         if (!sleep && bluetooth) {
             drawBT(dc);
         }
         if (marks && !sleep) {
             drawMark(dc);
         }
-        if (date && !sleep) {
+        if (date && !sleep && !invert) {
             drawDate(dc);
         }
+        drawSome(dc);
         drawTime(dc);
     }
 
@@ -179,19 +182,47 @@ class feltView extends Ui.WatchFace {
             for (var i = 0; i < 2; i += 1) {
                 mina[i] = [r + hour[i][0]*Math.sin(hour[i][1] + h), r - hour[i][0]*Math.cos(hour[i][1] + h)];
             }
-            dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
+            if(invert) {
+                dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+            } else {
+                dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
+            }
             dc.drawLine(mina[0][0], mina[0][1], mina[1][0], mina[1][1]);
             // minute
             for (var i = 0; i < 2; i += 1) {
                 mina[i] = [r + min[i][0]*Math.sin(min[i][1] + m), r - min[i][0]*Math.cos(min[i][1] + m)];
             }
             //center
-            dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+            if(invert) {
+                dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+            } else {
+                dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+            }
+            //dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
             dc.drawLine(mina[0][0], mina[0][1], mina[1][0], mina[1][1]);
+            if (!sleep) {
+                var s = pid6*now.sec/5.0;
+                dc.setColor(Gfx.COLOR_RED, Gfx.COLOR_TRANSPARENT);
+                dc.fillCircle(r + (r-4)*Math.sin(s), r - (r-4)*Math.cos(s), 4);
 
+            }
         }
     }
 
+    function drawInv(dc) {
+        dc.setColor(Gfx.COLOR_ORANGE, Gfx.COLOR_TRANSPARENT);
+        dc.fillCircle(r, r, min[0][0]);
+
+        dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
+        dc.fillCircle(r, r, hour[0][0]);
+        dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+        dc.setPenWidth(2);
+        dc.drawCircle(r, r, hour[0][0]);
+
+        //dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+        dc.fillCircle(r, r, hour[1][0]);
+
+    }
     function drawDate(dc) {
         var now = Cal.info(Time.now(), Time.FORMAT_MEDIUM);
         var day = now.day.format("%d");
@@ -207,7 +238,14 @@ class feltView extends Ui.WatchFace {
         var bat = Sys.getSystemStats().battery;
         if (bat < 15) {
             dc.setColor(Gfx.COLOR_DK_RED, Gfx.COLOR_TRANSPARENT);
-            dc.fillCircle(r, w, r >> 3);
+            if (invert) {
+                dc.setPenWidth(23);
+                dc.drawArc(r, r, hour[1][0]-13, 0, 226, 314);
+                dc.setColor(Gfx.COLOR_BLACK, Gfx.COLOR_TRANSPARENT);
+                dc.fillRoundedRectangle(r >> 1, r >> 1, r, r, 13);
+            } else {
+                dc.fillCircle(r, w, r >> 3);
+            }
         }
     }
 
@@ -223,15 +261,30 @@ class feltView extends Ui.WatchFace {
 
             if (msgs > 0) {
                 dc.setColor(Gfx.COLOR_WHITE, Gfx.COLOR_TRANSPARENT);
-                dc.fillCircle(r, 0, r >> 2);
+                if (invert) {
+                    dc.setPenWidth(23);
+                    dc.drawArc(r, r, hour[1][0]-13, 1, 134, 46);
+                } else {
+                    dc.fillCircle(r, 0, r >> 3);
+                }
             }
 
             if (alarms > 0){
                 dc.setColor(Gfx.COLOR_LT_GRAY, Gfx.COLOR_TRANSPARENT);
-                dc.fillCircle(w, r, r >> 2);
+                if (invert) {
+                    dc.setPenWidth(23);
+                    dc.drawArc(r, r, hour[1][0]-13, 0, 316, 44);
+                } else {
+                    dc.fillCircle(w, r, r >> 3);
+                }
             }
             dc.setColor(Gfx.COLOR_DK_GRAY, Gfx.COLOR_TRANSPARENT);
-            dc.fillCircle(0, r, r >> 3);
+            if (invert) {
+                dc.setPenWidth(23);
+                dc.drawArc(r, r, hour[1][0]-13, 0, 136, 224);
+            } else {
+                dc.fillCircle(0, r, r >> 3);
+            }
         }
     }
 

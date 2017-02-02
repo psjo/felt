@@ -20,238 +20,274 @@
 <entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="70" pc="268437153" symbol="onUpdate"/>
 <entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="73" pc="268437166" symbol="onUpdate"/>
 <entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="74" pc="268437180" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="75" pc="268437194" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="76" pc="268437220" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="78" pc="268437237" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="79" pc="268437263" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="81" pc="268437280" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="82" pc="268437306" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="84" pc="268437323" symbol="onUpdate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="87" pc="268437338" symbol="drawBG"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="88" pc="268437342" symbol="drawBG"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="89" pc="268437378" symbol="drawBG"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="92" pc="268437391" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="95" pc="268437395" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="96" pc="268437431" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="97" pc="268437449" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="98" pc="268437503" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="99" pc="268437557" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="100" pc="268437617" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="103" pc="268437690" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="104" pc="268437759" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="105" pc="268437828" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="106" pc="268437916" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="107" pc="268438004" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="109" pc="268438021" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="110" pc="268438057" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="111" pc="268438075" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="112" pc="268438129" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="113" pc="268438183" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="114" pc="268438249" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="117" pc="268438328" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="118" pc="268438397" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="119" pc="268438466" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="120" pc="268438554" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="121" pc="268438642" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="123" pc="268438653" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="124" pc="268438689" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="125" pc="268438744" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="126" pc="268438780" symbol="drawMark"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="130" pc="268438839" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="132" pc="268438843" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="133" pc="268438860" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="134" pc="268438870" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="135" pc="268438904" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="137" pc="268438923" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="138" pc="268438949" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="140" pc="268438957" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="141" pc="268438993" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="143" pc="268439010" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="144" pc="268439028" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="146" pc="268439192" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="147" pc="268439206" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="148" pc="268439242" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="149" pc="268439260" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="151" pc="268439353" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="152" pc="268439421" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="153" pc="268439489" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="154" pc="268439557" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="157" pc="268439625" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="158" pc="268439661" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="159" pc="268439679" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="161" pc="268439843" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="163" pc="268439857" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="164" pc="268439893" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="165" pc="268439929" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="166" pc="268439947" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="168" pc="268440040" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="171" pc="268440108" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="172" pc="268440144" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="173" pc="268440180" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="175" pc="268440216" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="177" pc="268440224" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="179" pc="268440241" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="180" pc="268440259" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="182" pc="268440423" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="183" pc="268440459" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="185" pc="268440527" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="186" pc="268440545" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="189" pc="268440709" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="190" pc="268440745" symbol="drawTime"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="195" pc="268440814" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="196" pc="268440818" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="197" pc="268440866" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="198" pc="268440890" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="199" pc="268440901" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="201" pc="268440940" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="203" pc="268440976" symbol="drawDate"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="206" pc="268441043" symbol="drawSome"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="207" pc="268441047" symbol="drawSome"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="208" pc="268441070" symbol="drawSome"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="209" pc="268441081" symbol="drawSome"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="210" pc="268441117" symbol="drawSome"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="214" pc="268441164" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="216" pc="268441168" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="217" pc="268441185" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="219" pc="268441195" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="221" pc="268441200" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="222" pc="268441210" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="224" pc="268441220" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="225" pc="268441231" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="226" pc="268441267" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="229" pc="268441310" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="230" pc="268441321" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="231" pc="268441357" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="233" pc="268441403" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="234" pc="268441439" symbol="drawBT"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="239" pc="268441483" symbol="onHide"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="241" pc="268441488" symbol="onExitSleep"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="242" pc="268441492" symbol="onExitSleep"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="244" pc="268441503" symbol="onEnterSleep"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="245" pc="268441507" symbol="onEnterSleep"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="248" pc="268441518" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="249" pc="268441522" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="250" pc="268441522" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="251" pc="268441522" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="252" pc="268441537" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="253" pc="268441617" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="254" pc="268441648" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="255" pc="268441668" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="257" pc="268441708" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="260" pc="268441752" symbol="toCyl"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="263" pc="268441756" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="264" pc="268441760" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="265" pc="268441777" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="266" pc="268441801" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="267" pc="268441825" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="268" pc="268441849" symbol="getSettings"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="7" pc="268441874" symbol="initialize"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="8" pc="268441878" symbol="initialize"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="12" pc="268441897" symbol="onStart"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="16" pc="268441902" symbol="onStop"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="20" pc="268441907" symbol="getInitialView"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="21" pc="268441911" symbol="getInitialView"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="22" pc="268441941" symbol="getInitialView"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="26" pc="268441965" symbol="onSettingsChanged"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="27" pc="268441969" symbol="onSettingsChanged"/>
-<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="28" pc="268441985" symbol="onSettingsChanged"/>
-<entry filename="Rez" lineNum="23" pc="268442002" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="25" pc="268442006" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="26" pc="268442030" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="27" pc="268442193" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="28" pc="268442218" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="29" pc="268442270" symbol="WatchFace"/>
-<entry filename="Rez" lineNum="32" pc="268442316" symbol="WatchFace"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="75" pc="268437191" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="77" pc="268437208" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="78" pc="268437234" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="80" pc="268437251" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="81" pc="268437277" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="83" pc="268437294" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="84" pc="268437335" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="86" pc="268437352" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="87" pc="268437366" symbol="onUpdate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="90" pc="268437381" symbol="drawBG"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="91" pc="268437385" symbol="drawBG"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="92" pc="268437421" symbol="drawBG"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="95" pc="268437434" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="98" pc="268437438" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="99" pc="268437474" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="100" pc="268437492" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="101" pc="268437546" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="102" pc="268437600" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="103" pc="268437660" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="106" pc="268437733" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="107" pc="268437802" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="108" pc="268437871" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="109" pc="268437959" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="110" pc="268438047" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="112" pc="268438064" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="113" pc="268438100" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="114" pc="268438118" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="115" pc="268438172" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="116" pc="268438226" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="117" pc="268438292" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="120" pc="268438371" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="121" pc="268438440" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="122" pc="268438509" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="123" pc="268438597" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="124" pc="268438685" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="126" pc="268438696" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="127" pc="268438732" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="128" pc="268438787" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="129" pc="268438823" symbol="drawMark"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="133" pc="268438882" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="135" pc="268438886" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="136" pc="268438903" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="137" pc="268438913" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="138" pc="268438947" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="140" pc="268438966" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="141" pc="268438992" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="143" pc="268439000" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="144" pc="268439036" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="146" pc="268439053" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="147" pc="268439071" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="149" pc="268439235" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="150" pc="268439249" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="151" pc="268439285" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="152" pc="268439303" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="154" pc="268439396" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="155" pc="268439464" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="156" pc="268439532" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="157" pc="268439600" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="160" pc="268439668" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="161" pc="268439704" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="162" pc="268439722" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="164" pc="268439886" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="166" pc="268439900" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="167" pc="268439936" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="168" pc="268439972" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="169" pc="268439990" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="171" pc="268440083" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="174" pc="268440151" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="175" pc="268440187" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="176" pc="268440223" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="178" pc="268440259" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="180" pc="268440267" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="182" pc="268440284" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="183" pc="268440302" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="185" pc="268440466" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="186" pc="268440477" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="188" pc="268440516" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="190" pc="268440552" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="192" pc="268440620" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="193" pc="268440638" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="196" pc="268440802" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="197" pc="268440813" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="199" pc="268440852" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="202" pc="268440888" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="203" pc="268440956" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="204" pc="268440968" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="205" pc="268440993" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="206" pc="268441029" symbol="drawTime"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="212" pc="268441132" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="213" pc="268441136" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="214" pc="268441172" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="216" pc="268441220" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="217" pc="268441256" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="218" pc="268441304" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="219" pc="268441340" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="220" pc="268441357" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="223" pc="268441405" symbol="drawInv"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="226" pc="268441454" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="227" pc="268441458" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="228" pc="268441506" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="229" pc="268441530" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="230" pc="268441541" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="232" pc="268441580" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="234" pc="268441616" symbol="drawDate"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="237" pc="268441683" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="238" pc="268441687" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="239" pc="268441710" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="240" pc="268441721" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="241" pc="268441757" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="242" pc="268441768" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="243" pc="268441785" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="244" pc="268441854" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="245" pc="268441890" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="247" pc="268441956" symbol="drawSome"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="252" pc="268442003" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="254" pc="268442007" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="255" pc="268442024" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="257" pc="268442034" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="259" pc="268442039" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="260" pc="268442049" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="262" pc="268442059" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="263" pc="268442070" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="264" pc="268442106" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="265" pc="268442117" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="266" pc="268442134" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="268" pc="268442206" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="272" pc="268442249" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="273" pc="268442260" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="274" pc="268442296" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="275" pc="268442307" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="276" pc="268442324" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="278" pc="268442396" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="281" pc="268442442" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="282" pc="268442478" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="283" pc="268442489" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="284" pc="268442506" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="286" pc="268442578" symbol="drawBT"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="292" pc="268442622" symbol="onHide"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="294" pc="268442627" symbol="onExitSleep"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="295" pc="268442631" symbol="onExitSleep"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="297" pc="268442642" symbol="onEnterSleep"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="298" pc="268442646" symbol="onEnterSleep"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="301" pc="268442657" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="302" pc="268442661" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="303" pc="268442661" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="304" pc="268442661" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="305" pc="268442676" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="306" pc="268442756" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="307" pc="268442787" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="308" pc="268442807" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="310" pc="268442847" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="313" pc="268442891" symbol="toCyl"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="316" pc="268442895" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="317" pc="268442899" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="318" pc="268442916" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="319" pc="268442940" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="320" pc="268442964" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltView.mc" lineNum="321" pc="268442988" symbol="getSettings"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="7" pc="268443013" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="8" pc="268443017" symbol="initialize"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="12" pc="268443036" symbol="onStart"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="16" pc="268443041" symbol="onStop"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="20" pc="268443046" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="21" pc="268443050" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="22" pc="268443080" symbol="getInitialView"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="26" pc="268443104" symbol="onSettingsChanged"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="27" pc="268443108" symbol="onSettingsChanged"/>
+<entry filename="/Users/keso/src/workspace/felt/source/feltApp.mc" lineNum="28" pc="268443124" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="23" pc="268443141" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="25" pc="268443145" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="26" pc="268443169" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="27" pc="268443332" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="28" pc="268443357" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="29" pc="268443409" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="32" pc="268443455" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="22" symbol="sqrt3d2"/>
+<entry field="true" id="23" symbol="sqrt3d2"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389349" symbol="justification"/>
 <entry field="true" id="12" symbol="bluetooth"/>
-<entry id="32" method="true" symbol="toCyl"/>
+<entry id="34" method="true" symbol="toCyl"/>
 <entry field="true" id="8388611" symbol="Toybox"/>
-<entry id="29" method="true" symbol="drawDate"/>
+<entry id="31" method="true" symbol="drawDate"/>
 <entry field="true" id="8388720" symbol="hour"/>
 <entry id="8388770" module="true" symbol="Strings"/>
+<entry field="true" id="16" symbol="invert"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388640" symbol="Lang"/>
 <entry id="9" object="true" symbol="feltApp"/>
 <entry id="8388769" module="true" symbol="Rez"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="30" method="true" symbol="drawSome"/>
+<entry id="32" method="true" symbol="drawSome"/>
 <entry field="true" id="15" symbol="hands"/>
 <entry field="true" id="14" symbol="date"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8" object="true" symbol="feltView"/>
-<entry field="true" id="38" symbol="AppName"/>
-<entry field="true" id="39" symbol="view"/>
+<entry field="true" id="40" symbol="AppName"/>
+<entry field="true" id="41" symbol="view"/>
 <entry id="8389375" method="true" symbol="WatchFace"/>
 <entry field="true" id="13" symbol="marks"/>
-<entry field="true" id="23" symbol="pit2"/>
+<entry field="true" id="24" symbol="pit2"/>
 <entry id="8388641" symbol="Math"/>
 <entry field="true" id="10" symbol="sleep"/>
-<entry field="true" id="36" symbol="LauncherIcon"/>
-<entry id="28" method="true" symbol="drawTime"/>
+<entry field="true" id="38" symbol="LauncherIcon"/>
+<entry id="29" method="true" symbol="drawTime"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
 <entry id="8389281" method="true" symbol="onStop"/>
-<entry field="true" id="19" symbol="dr2"/>
+<entry field="true" id="20" symbol="dr2"/>
 <entry field="true" id="11" symbol="loadSettings"/>
 <entry id="8389065" symbol="locY"/>
 <entry id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" symbol="Drawables"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry field="true" id="24" symbol="pid6"/>
+<entry field="true" id="25" symbol="pid6"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry id="8389348" symbol="font"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="37" symbol="AppVersion"/>
-<entry id="35" module="true" symbol="Layouts"/>
+<entry field="true" id="39" symbol="AppVersion"/>
+<entry id="37" module="true" symbol="Layouts"/>
 <entry field="true" id="8388721" symbol="min"/>
 <entry id="8389125" method="true" symbol="onHide"/>
-<entry field="true" id="21" symbol="rr"/>
-<entry id="33" method="true" symbol="getSettings"/>
-<entry id="27" method="true" symbol="drawMark"/>
+<entry field="true" id="22" symbol="rr"/>
+<entry id="35" method="true" symbol="getSettings"/>
+<entry id="28" method="true" symbol="drawMark"/>
 <entry id="8389063" symbol="identifier"/>
-<entry id="34" module="true" symbol="Menus"/>
-<entry field="true" id="18" symbol="dr"/>
-<entry field="true" id="16" symbol="w"/>
+<entry id="30" method="true" symbol="drawInv"/>
+<entry id="36" module="true" symbol="Menus"/>
+<entry field="true" id="19" symbol="dr"/>
+<entry field="true" id="17" symbol="w"/>
 <entry id="8388772" module="true" symbol="Fonts"/>
-<entry field="true" id="17" symbol="r"/>
-<entry field="true" id="20" symbol="cr"/>
-<entry id="31" method="true" symbol="drawBT"/>
-<entry id="26" method="true" symbol="drawBG"/>
-<entry field="true" id="25" symbol="dots"/>
+<entry field="true" id="18" symbol="r"/>
+<entry field="true" id="21" symbol="cr"/>
+<entry id="33" method="true" symbol="drawBT"/>
+<entry id="27" method="true" symbol="drawBG"/>
+<entry field="true" id="26" symbol="dots"/>
 </symbolTable>
 <localVars>
-<entry endPc="268437690" name="i" stackId="2" startPc="268437449"/>
-<entry endPc="268438328" name="i" stackId="3" startPc="268438075"/>
-<entry endPc="268439192" name="i" stackId="6" startPc="268439028"/>
-<entry endPc="268439353" name="i" stackId="7" startPc="268439260"/>
-<entry endPc="268439843" name="i" stackId="8" startPc="268439679"/>
-<entry endPc="268440040" name="i" stackId="9" startPc="268439947"/>
-<entry endPc="268440213" name="mina" stackId="5" startPc="268438949"/>
-<entry endPc="268440423" name="i" stackId="11" startPc="268440259"/>
-<entry endPc="268440709" name="i" stackId="12" startPc="268440545"/>
-<entry endPc="268440813" name="mina" stackId="10" startPc="268440216"/>
-<entry endPc="268440813" name="m" stackId="3" startPc="268438843"/>
-<entry endPc="268440813" name="now" stackId="2" startPc="268438843"/>
-<entry endPc="268440813" name="h" stackId="4" startPc="268438843"/>
-<entry endPc="268441042" name="day" stackId="3" startPc="268440818"/>
-<entry endPc="268441042" name="now" stackId="2" startPc="268440818"/>
-<entry endPc="268441163" name="bat" stackId="2" startPc="268441047"/>
-<entry endPc="268441479" name="alarms" stackId="5" startPc="268441200"/>
-<entry endPc="268441479" name="msgs" stackId="4" startPc="268441200"/>
-<entry endPc="268441482" name="settings" stackId="2" startPc="268441168"/>
-<entry endPc="268441482" name="conn" stackId="3" startPc="268441168"/>
-<entry endPc="268441752" name="i" stackId="5" startPc="268441537"/>
-<entry endPc="268441755" name="a" stackId="4" startPc="268441522"/>
-<entry endPc="268441755" name="r" stackId="3" startPc="268441522"/>
-<entry endPc="268441873" name="app" stackId="1" startPc="268441760"/>
-<entry endPc="268442343" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268442006"/>
-<entry endPc="268442343" name="rez_cmp_local_custom_drawable_BY95CLF85E0F8QSF005Q" stackId="2" startPc="268442006"/>
-<entry endPc="268442343" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268442006"/>
+<entry endPc="268437733" name="i" stackId="2" startPc="268437492"/>
+<entry endPc="268438371" name="i" stackId="3" startPc="268438118"/>
+<entry endPc="268439235" name="i" stackId="6" startPc="268439071"/>
+<entry endPc="268439396" name="i" stackId="7" startPc="268439303"/>
+<entry endPc="268439886" name="i" stackId="8" startPc="268439722"/>
+<entry endPc="268440083" name="i" stackId="9" startPc="268439990"/>
+<entry endPc="268440256" name="mina" stackId="5" startPc="268438992"/>
+<entry endPc="268440466" name="i" stackId="11" startPc="268440302"/>
+<entry endPc="268440802" name="i" stackId="12" startPc="268440638"/>
+<entry endPc="268441128" name="s" stackId="13" startPc="268440968"/>
+<entry endPc="268441131" name="mina" stackId="10" startPc="268440259"/>
+<entry endPc="268441131" name="m" stackId="3" startPc="268438886"/>
+<entry endPc="268441131" name="now" stackId="2" startPc="268438886"/>
+<entry endPc="268441131" name="h" stackId="4" startPc="268438886"/>
+<entry endPc="268441682" name="day" stackId="3" startPc="268441458"/>
+<entry endPc="268441682" name="now" stackId="2" startPc="268441458"/>
+<entry endPc="268442002" name="bat" stackId="2" startPc="268441687"/>
+<entry endPc="268442618" name="alarms" stackId="5" startPc="268442039"/>
+<entry endPc="268442618" name="msgs" stackId="4" startPc="268442039"/>
+<entry endPc="268442621" name="settings" stackId="2" startPc="268442007"/>
+<entry endPc="268442621" name="conn" stackId="3" startPc="268442007"/>
+<entry endPc="268442891" name="i" stackId="5" startPc="268442676"/>
+<entry endPc="268442894" name="a" stackId="4" startPc="268442661"/>
+<entry endPc="268442894" name="r" stackId="3" startPc="268442661"/>
+<entry endPc="268443012" name="app" stackId="1" startPc="268442899"/>
+<entry endPc="268443482" name="rez_cmp_local_bitmap_TimeLabel" stackId="3" startPc="268443145"/>
+<entry endPc="268443482" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="4" startPc="268443145"/>
+<entry endPc="268443482" name="rez_cmp_local_custom_drawable_6QZL6L9E45XIMKM62A2F" stackId="2" startPc="268443145"/>
 </localVars>
 <annotations/>
 <functions>
@@ -278,6 +314,10 @@
 <documentation/>
 </functionEntry>
 <functionEntry name="drawTime" parent="feltView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawInv" parent="feltView">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
